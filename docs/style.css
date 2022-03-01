@@ -87,292 +87,188 @@
 		padding-right:18px;
 		padding-left:18px;
 	}
-/*
-@tab Page
-@section Background Style
-*/
 	body,#bodyTable{
-		/*@editable*/background-color:#eeeeee;
+		background-color:#eeeeee;
 	}
-/*
-@tab Page
-@section Email Border
-*/
 	.templateContainer{
-		/*@editable*/border:0;
+		border:0;
 	}
-/*
-@tab Page
-@section Heading 1
-*/
 	h1{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-family:sans-serif
-		/*@editable*/font-size:36px;
-		/*@editable*/font-style:normal;
-		/*@editable*/font-weight:bold;
-		/*@editable*/line-height:100%;
-		/*@editable*/letter-spacing:normal;
+		color:#ffffff;
+		font-family:sans-serif;
+		font-size:36px;
+		font-style:normal;
+		font-weight:bold;
+		line-height:100%;
+		letter-spacing:normal;
 	}
-/*
-@tab Page
-@section Heading 2
-*/
 	h2{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:28px;
-		/*@editable*/font-style:normal;
-		/*@editable*/font-weight:bold;
-		/*@editable*/line-height:100%;
-		/*@editable*/letter-spacing:normal;
-		/*@editable*/text-align:center;
+		color:#ffffff;
+		font-family:Helvetica;
+		font-size:28px;
+		font-style:normal;
+		font-weight:bold;
+		line-height:100%;
+		letter-spacing:normal;
+		text-align:center;
 	}
-/*
-@tab Page
-@section Heading 3
-*/
 	h3{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:18px;
-		/*@editable*/font-style:normal;
-		/*@editable*/font-weight:bold;
-		/*@editable*/line-height:100%;
-		/*@editable*/letter-spacing:normal;
-		/*@editable*/text-align:left;
+		color:#ffffff;
+		font-family:Helvetica;
+		font-size:18px;
+		font-style:normal;
+		font-weight:bold;
+		line-height:100%;
+		letter-spacing:normal;
+		text-align:left;
 		padding-bottom:10px;
 	}
-/*
-@tab Page
-@section Heading 4
-*/
 	h4{
-		/*@editable*/color:#454544;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:20px;
-		/*@editable*/font-style:italic;
-		/*@editable*/font-weight:normal;
-		/*@editable*/line-height:100%;
-		/*@editable*/letter-spacing:normal;
-		/*@editable*/text-align:center;
+		color:#454544;
+		font-family:Helvetica;
+		font-size:20px;
+		font-style:italic;
+		font-weight:normal;
+		line-height:100%;
+		letter-spacing:normal;
+		text-align:center;
 	}
-/*
-@tab Preheader
-@section Preheader Style
-*/
 	#templatePreheader{
-		/*@editable*/background-color:#454544;
-		/*@editable*/background-image:none;
-		/*@editable*/background-repeat:no-repeat;
-		/*@editable*/background-position:center;
-		/*@editable*/background-size:cover;
-		/*@editable*/border-top:0;
-		/*@editable*/border-bottom:0;
-		/*@editable*/padding-top:9px;
-		/*@editable*/padding-bottom:9px;
+		background-color:#454544;
+		background-image:none;
+		background-repeat:no-repeat;
+		background-position:center;
+		background-size:cover;
+		border-top:0;
+		border-bottom:0;
+		padding-top:9px;
+		padding-bottom:9px;
 	}
-/*
-@tab Preheader
-@section Preheader Text
-*/
 	#templatePreheader,#templatePreheader p{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:12px;
-		/*@editable*/line-height:100%;
-		/*@editable*/text-align:left;
+		color:#ffffff;
+		font-family:Helvetica;
+		font-size:12px;
+		line-height:100%;
+		text-align:left;
 	}
-/*
-@tab Preheader
-@section Preheader Link
-*/
 	#templatePreheader a,#templatePreheader p a{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-weight:normal;
-		/*@editable*/text-decoration:underline;
+		color:#ffffff;
+		font-weight:normal;
+		text-decoration:underline;
 	}
-/*
-@tab Header
-@section Header Style
-*/
 	#templateHeader{
-		/*@editable*/background-color:#FFFFFF;
-		/*@editable*/background-image:none;
-		/*@editable*/background-repeat:no-repeat;
-		/*@editable*/background-position:center;
-		/*@editable*/background-size:cover;
-		/*@editable*/border-top:0;
-		/*@editable*/border-bottom:0;
-		/*@editable*/padding-top:18px;
-		/*@editable*/padding-bottom:0;
+		background-color:#FFFFFF;
+		background-image:none;
+		background-repeat:no-repeat;
+		background-position:center;
+		background-size:cover;
+		border-top:0;
+		border-bottom:0;
+		padding-top:18px;
+		padding-bottom:0;
 	}
-/*
-@tab Header
-@section Header Text
-*/
 	#templateHeader,#templateHeader p{
-		/*@editable*/color:#606060;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:16px;
-		/*@editable*/line-height:150%;
-		/*@editable*/text-align:left;
+		color:#606060;
+		font-family:Helvetica;
+		font-size:16px;
+		line-height:150%;
+		text-align:left;
 	}
-/*
-@tab Header
-@section Header Link
-*/
 	#templateHeader a,#templateHeader p a{
-		/*@editable*/color:#237A91;
-		/*@editable*/font-weight:normal;
-		/*@editable*/text-decoration:underline;
+		color:#237A91;
+		font-weight:normal;
+		text-decoration:underline;
 	}
-/*
-@tab Body
-@section Body Style
-*/
 	#templateBody{
-		/*@editable*/background-color:#ffffff;
-		/*@editable*/background-image:none;
-		/*@editable*/background-repeat:no-repeat;
-		/*@editable*/background-position:center;
-		/*@editable*/background-size:cover;
-		/*@editable*/border-top:0;
-		/*@editable*/border-bottom:2px solid #EAEAEA;
-		/*@editable*/padding-top:0;
-		/*@editable*/padding-bottom:9px;
+		background-color:#ffffff;
+		background-image:none;
+		background-repeat:no-repeat;
+		background-position:center;
+		background-size:cover;
+		border-top:0;
+		border-bottom:2px solid #EAEAEA;
+		padding-top:0;
+		padding-bottom:9px;
 	}
-/*
-@tab Body
-@section Body Text
-*/
 	#templateBody,#templateBody p{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:16px;
-		/*@editable*/line-height:150%;
-		/*@editable*/text-align:left;
+		color:#ffffff;
+		font-family:Helvetica;
+		font-size:16px;
+		line-height:150%;
+		text-align:left;
 	}
-/*
-@tab Body
-@section Body Link
-*/
 	#templateBody a,#templateBody p a{
-		/*@editable*/color:#55abab;
-		/*@editable*/font-weight:normal;
-		/*@editable*/text-decoration:underline;
+		color:#55abab;
+		font-weight:normal;
+		text-decoration:underline;
 	}
-/*
-@tab Body
-@section Body Link
-*/
 	#templateBody a,#templateBody h3 a{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-weight:bold;
-		/*@editable*/text-decoration:underline;
+		color:#ffffff;
+		font-weight:bold;
+		text-decoration:underline;
 	}
-/*
-@tab Body
-@section Body Link
-*/
 	#templateBody a,#templateBody h4 a{
-		/*@editable*/color:#55abab;
-		/*@editable*/font-weight:bold;
-		/*@editable*/text-decoration:underline;
+		color:#55abab;
+		font-weight:bold;
+		text-decoration:underline;
 	}
-/*
-@tab Footer
-@section Footer Style
-*/
 	#templateFooter{
-		/*@editable*/background-color:#171b20;
-		/*@editable*/background-image:none;
-		/*@editable*/background-repeat:no-repeat;
-		/*@editable*/background-position:center;
-		/*@editable*/background-size:cover;
-		/*@editable*/border-top:0;
-		/*@editable*/border-bottom:0;
-		/*@editable*/padding-top:36px;
-		/*@editable*/padding-bottom:9px;
+		background-color:#171b20;
+		background-image:none;
+		background-repeat:no-repeat;
+		background-position:center;
+		background-size:cover;
+		border-top:0;
+		border-bottom:0;
+		padding-top:36px;
+		padding-bottom:9px;
 	}
-/*
-@tab Footer
-@section Social Bar Style
-*/
 	#socialBar{
-		/*@editable*/background-color:#454544;
-		/*@editable*/border:0;
-		/*@editable*/padding:15px;
+		background-color:#454544;
+		border:0;
+		padding:15px;
 	}
-/*
-@tab Footer
-@section Social Bar Text
-*/
 	#socialBar,#socialBar p{
-		/*@editable*/color:#FFFFFF;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:12px;
-		/*@editable*/line-height:150%;
-		/*@editable*/text-align:center;
+		color:#FFFFFF;
+		font-family:Helvetica;
+		font-size:12px;
+		line-height:150%;
+		text-align:center;
 	}
-/*
-@tab Footer
-@section Social Bar Link
-*/
 	#socialBar a,#socialBar p a{
-		/*@editable*/color:#FFFFFF;
-		/*@editable*/font-weight:normal;
-		/*@editable*/text-decoration:underline;
+		color:#FFFFFF;
+		font-weight:normal;
+		text-decoration:underline;
 	}
-/*
-@tab Footer
-@section Footer Text
-*/
 	#footerContent,#footerContent p{
-		/*@editable*/color:#FFFFFF;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:12px;
-		/*@editable*/line-height:150%;
-		/*@editable*/text-align:center;
+		color:#FFFFFF;
+		font-family:Helvetica;
+		font-size:12px;
+		line-height:150%;
+		text-align:center;
 	}
-/*
-@tab Footer
-@section Footer Link
-*/
 	#footerContent a,#footerContent p a{
-		/*@editable*/color:#656565;
-		/*@editable*/font-weight:normal;
-		/*@editable*/text-decoration:underline;
+		color:#656565;
+		font-weight:normal;
+		text-decoration:underline;
 	}
-/*
-@tab Footer
-@section Utility Bar Style
-*/
 	#utilityBar{
-		/*@editable*/background-color:#131b20;
-		/*@editable*/border:0;
-		/*@editable*/padding-top:9px;
-		/*@editable*/padding-bottom:9px;
+		background-color:#131b20;
+		border:0;
+		padding-top:9px;
+		padding-bottom:9px;
 	}
-/*
-@tab Footer
-@section Utility Bar Text
-*/
 	#utilityBar,#utilityBar p{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-family:Helvetica;
-		/*@editable*/font-size:12px;
-		/*@editable*/line-height:150%;
-		/*@editable*/text-align:center;
+		color:#ffffff;
+		font-family:Helvetica;
+		font-size:12px;
+		line-height:150%;
+		text-align:center;
 	}
-/*
-@tab Footer
-@section Utility Bar Link
-*/
 	#utilityBar a,#utilityBar p a{
-		/*@editable*/color:#ffffff;
-		/*@editable*/font-weight:normal;
-		/*@editable*/text-decoration:underline;
+		color:#ffffff;
+		font-weight:normal;
+		text-decoration:underline;
 	}
 @media only screen and (max-width: 480px){
 	body,table,td,p,a,li,blockquote{
@@ -408,112 +304,69 @@
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Heading 1
-*/
 	h1{
-		/*@editable*/font-size:22px !important;
-		/*@editable*/line-height:100% !important;
+		font-size:22px !important;
+		line-height:100% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Heading 2
-*/
 	h2{
-		/*@editable*/font-size:20px !important;
-		/*@editable*/line-height:100% !important;
+		font-size:20px !important;
+		line-height:100% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Heading 3
-*/
 	h3{
-		/*@editable*/font-size:18px !important;
-		/*@editable*/line-height:100% !important;
+		font-size:18px !important;
+		line-height:100% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Heading 4
-*/
 	h4{
-		/*@editable*/font-size:16px !important;
-		/*@editable*/line-height:100% !important;
+		font-size:16px !important;
+		line-height:100% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Preheader Visibility
-*/
 	#templatePreheader{
-		/*@editable*/display:block !important;
+		display:block !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Preheader Text
-*/
 	#templatePreheader,#templatePreheader p{
-		/*@editable*/font-size:10px !important;
-		/*@editable*/line-height:100% !important;
+		font-size:10px !important;
+		line-height:100% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Header Text
-*/
 	#templateHeader,#templateHeader p{
-		/*@editable*/font-size:16px !important;
-		/*@editable*/line-height:150% !important;
+		font-size:16px !important;
+		line-height:150% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Body Text
-*/
 	#templateBody,#templateBody p{
-		/*@editable*/font-size:12px !important;
-		/*@editable*/line-height:150% !important;
+		font-size:12px !important;
+		line-height:150% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Footer Text
-*/
 	#templateFooter,#templateFooter p{
-		/*@editable*/font-size:12px !important;
-		/*@editable*/line-height:100% !important;
+		font-size:12px !important;
+		line-height:100% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Social Bar Text
-*/
 	#socialBar,#socialBar p{
-		/*@editable*/font-size:14px !important;
-		/*@editable*/line-height:100% !important;
+		font-size:14px !important;
+		line-height:100% !important;
 	}
 
 }	@media only screen and (max-width: 480px){
-/*
-@tab Mobile Styles
-@section Utility Bar Text
-*/
 	#utilityBar,#utilityBar p{
-		/*@editable*/font-size:14px !important;
-		/*@editable*/line-height:150% !important;
+		font-size:14px !important;
+		line-height:150% !important;
 	}
 
-}</style>
+}
+</style>
